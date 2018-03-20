@@ -12,7 +12,4 @@ def Complement(Pattern):
     return x
 
 
-
-
-
 print(Complement("ATGCTGAT"))
